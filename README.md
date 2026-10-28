@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://dariiarusanova.github.io/"><img src="https://dariiarusanova.github.io/assets/og.png" alt="Дария Русанова - QA Lead в travel-tech" width="100%"></a>
+  <a href="https://dariiarusanova.github.io/"><img src="https://dariiarusanova.github.io/assets/og.jpg" alt="Дария Русанова - QA Lead в travel-tech" width="100%"></a>
 </p>
 
 ### QA Lead в travel-tech
